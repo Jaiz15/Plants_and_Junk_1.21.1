@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "plantsjunk",
+	"version": "${version}",
+	"name": "Plants&Junk",
+	"description": "Adds ambient plants, blocks and entities to minecraft!",
+	"authors": [
+		"Jaiz",
+		"Romeo SnowBlitz (helped me)"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/plantsjunk/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"jaiz.plantsjunk.PlantsJunk"
+		],
+		"client": [
+			"jaiz.plantsjunk.PlantsJunkClient"
+		],
+		"fabric-datagen": [
+			"jaiz.plantsjunk.PlantsJunkDataGenerator"
+		]
+	},
+	"mixins": [
+		"plantsjunk.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

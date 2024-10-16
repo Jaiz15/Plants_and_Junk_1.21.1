@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "plantsjunk:block/rotten_planks",
+    "side": "plantsjunk:block/rotten_planks",
+    "top": "plantsjunk:block/rotten_planks"
+  }
+}

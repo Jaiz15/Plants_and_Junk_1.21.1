@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "R": {
+      "item": "plantsjunk:stripped_rotten_log"
+    },
+    "X": {
+      "item": "minecraft:chain"
+    }
+  },
+  "pattern": [
+    "X X",
+    "RRR",
+    "RRR"
+  ],
+  "result": {
+    "count": 6,
+    "id": "plantsjunk:rotten_hanging_sign"
+  }
+}

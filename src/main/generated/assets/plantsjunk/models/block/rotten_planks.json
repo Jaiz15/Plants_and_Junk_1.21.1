@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "plantsjunk:block/rotten_planks"
+  }
+}

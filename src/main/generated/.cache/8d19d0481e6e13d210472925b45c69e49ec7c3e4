@@ -1,0 +1,18 @@
+// 1.21.1	2024-10-01T23:13:05.9455536	Plants&Junk/Tags for minecraft:block
+c826ed270660f90461aae5cbd0116ee8e08edbd0 data\minecraft\tags\block\mineable\axe.json
+edd1c806e334152f3d2cdfc85231ec54ebf7214c data\minecraft\tags\block\flowers.json
+a1f91569ef57a918c23e677e4cb0d69fab85d823 data\minecraft\tags\block\dirt.json
+8c236fa901a433559946030234df4b5396028287 data\minecraft\tags\block\fence_gates.json
+ab156831f1dcc659682024b985c532440aef2fb7 data\minecraft\tags\block\mushroom_grow_block.json
+b4b7069c7e2631c2b4352dc12faf77da98a5ea1d data\minecraft\tags\block\wooden_fences.json
+147e479a387e62641bc7ffc1bf499a0ca7cf8510 data\minecraft\tags\block\wooden_stairs.json
+6d2bc8b2571eea06c38a29c3f3cd1c0e49d25717 data\minecraft\tags\block\replaceable_by_trees.json
+57ee0ada5021063c5c49b3858f5b9b6bae2c96e3 data\minecraft\tags\block\wooden_doors.json
+dcaa0a7964d362a1bcd24bc05495e80cb515c17d data\minecraft\tags\block\replaceable.json
+1ebbc4e18b38d1162e462f9ace0ee7e540a21630 data\minecraft\tags\block\small_flowers.json
+ab156831f1dcc659682024b985c532440aef2fb7 data\minecraft\tags\block\logs_that_burn.json
+b4b7069c7e2631c2b4352dc12faf77da98a5ea1d data\minecraft\tags\block\fences.json
+18384186f91c4ae75407258e6d8851edbbde934e data\minecraft\tags\block\wooden_pressure_plates.json
+a72f09a88fcb43a3b4661a0431c56dd156fee44c data\minecraft\tags\block\wooden_buttons.json
+a1f91569ef57a918c23e677e4cb0d69fab85d823 data\minecraft\tags\block\mineable\shovel.json
+31d6ff5a04a57202fe97a16ad446b96dc65ff3f6 data\minecraft\tags\block\wooden_slabs.json

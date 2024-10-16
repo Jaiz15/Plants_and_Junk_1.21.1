@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "plantsjunk:block/firefly_bottle"
+    },
+    "hanging=true": {
+      "model": "plantsjunk:block/firefly_bottle_hanging"
+    }
+  }
+}

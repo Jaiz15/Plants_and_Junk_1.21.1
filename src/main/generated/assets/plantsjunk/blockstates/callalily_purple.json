@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "plantsjunk:block/callalily_purple_bottom"
+    },
+    "half=upper": {
+      "model": "plantsjunk:block/callalily_purple_top"
+    }
+  }
+}

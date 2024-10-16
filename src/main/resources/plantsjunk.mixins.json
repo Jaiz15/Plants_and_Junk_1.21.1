@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "jaiz.plantsjunk.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin",
+		"TreeDecoratorTypeMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
